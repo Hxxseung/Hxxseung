@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="sandbox:/mnt/data/heeseung_github (2).gif" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
