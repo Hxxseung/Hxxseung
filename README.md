@@ -33,5 +33,14 @@
   <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hxxseung&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxxseung&layout=compact&count_private=true&theme=gruvbox" />
+  <br><br><br><br>
+</div>
 
+
+<div align="center">
+  <h3 align="center">📫 Contact 📫</h3>
+  <a href="mailto:soaorsith2@naver.com">
+    <img
+      src="https://img.shields.io/badge/soaorsith2@naver.com-6DB33F?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
+  </a>
 </div>
