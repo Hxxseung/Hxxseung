@@ -15,6 +15,10 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 </div>
 
+<div align="center">
+ <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
+</div>
+
 <h3 align="center">🔥 Recent Interest 🔥</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
