@@ -35,6 +35,7 @@
   <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hxxseung&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxxseung&layout=compact&count_private=true&theme=gruvbox" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <br><br><br><br>
 </div>
 
