@@ -28,14 +28,16 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=flat-square&logo=notion&logoColor=black"/>&nbsp
+  </div>
+<div align="center">
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
 </div>
 
 <div align="center">
   <br>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Hxxseung&show_icons=true&count_private=true&theme=gruvbox" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hxxseung&layout=compact&count_private=true&theme=gruvbox" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
   <br><br><br><br>
 </div>
 
