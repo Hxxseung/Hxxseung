@@ -24,6 +24,7 @@
 </div>
 <div align="center">
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
 <h3 align="center">🛠 Tools 🛠</h3>
