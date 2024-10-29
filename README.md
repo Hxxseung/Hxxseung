@@ -14,6 +14,11 @@
 <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 </div>
 
+<h3 align="center">📚 Now Studying 📚</h3>
+<div align="center">
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+</div>
+
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>&nbsp
