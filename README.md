@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXNtcTdhY3ZiMnR4M2x2cWQwb3llOG5pb2VzZXNtc2R2NGR1M3h5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l7zabeVIt16efVp6wg/giphy.gif" alt="CoderGIF width="100">
 </div>
 
 <h3 align="center">✨ Tech Stack ✨</h3>
