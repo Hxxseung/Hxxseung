@@ -6,8 +6,8 @@
 
 <h3>📚 Edu 📚</h3>
 2025.03.02 ~ KONKUK Univ. Master Student | SMART MEDIA LAB | AI <br>
-2024.11.04 ~ sparta Spring 백엔드 단기심화(스파르타코딩클럽) | AI 활용 백엔드심화(대용량 트래픽 처리) 과정 <br>
-2024.03.11 ~ KG ITBank 핀테크 서비스를 위한 풀스택 개발자 양성과정
+2024.11.04 ~ 2025.01.27 sparta Spring 백엔드 단기심화(스파르타코딩클럽) | AI 활용 백엔드심화(대용량 트래픽 처리) 과정 <br>
+2024.03.11 ~ 2024.09.06 KG ITBank 핀테크 서비스를 위한 풀스택 개발자 양성과정
 
 <h3>📚 Now Studying 📚</h3>
 <div>
