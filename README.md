@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hxxseung&show_icons=true&theme=transparent)
+
 
 <h3>📘 Edu </h3>
 
